@@ -2,10 +2,6 @@
 
 OpenCraft is an open source implementation of the popular game InfiniteCraft. 
 
-**You can learn more about how it works and how i made it [here](http://www.youtube.com/watch?v=aqrPOPq1kP0)**
-
-[![I cloned Infinite Craft](http://img.youtube.com/vi/aqrPOPq1kP0/0.jpg)](http://www.youtube.com/watch?v=aqrPOPq1kP0 'I cloned Infinite Craft')
-
 
 ## Setup
 
@@ -42,15 +38,4 @@ You can start the API/Backend Server by running
 cd server
 npm run start
 ```
-
-## Contributing
-
-Please open an issue and wait for the approval of a Maintainer before submitting a PR. 
-
-## Support me
-
-We are building **[solidtime](https://www.solidtime.io) - The modern Open Source Time Tracker**
-
-[<img width="600" alt="image" src="https://github.com/bufferhead-code/opencraft/assets/6266887/72437557-7a68-4da1-bcc7-befe808134fc">](https://www.solidtime.io)
-
 
